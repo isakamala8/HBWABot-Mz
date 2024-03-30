@@ -15,9 +15,9 @@ global.mtl_language = false // multi language i hman dawn chuan true ah dah tur
 global.bot_language = 'lus' // I language code dah tur code hman i hriat loh chuan https://herbert70.blogspot.com/p/language-code-for-hbwabot.html?m=1 he link ah hian en thei a ni ang
 
 //info
-global.owner = ['918416093656'] // I phone number in thlak rawh
-global.ownernumber = '918416093656' // I phone number in thlak rawh
-global.ownername = "꧁Herbert♕꧂" // I hming dah tel bawk la
+global.owner = ['916033308905'] // I phone number in thlak rawh
+global.ownernumber = '916033308905' // I phone number in thlak rawh
+global.ownername = "꧁isak_m.s.d.a♕꧂" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
 global.botname = "HBWABot Mizo" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
